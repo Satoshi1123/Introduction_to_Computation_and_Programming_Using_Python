@@ -8,12 +8,12 @@ Python言語によるプログラミングイントロダクション 第2版-�
 ### Chapter3 Simple arithmetic program
 #1 Code3.1  
 #2 Code3.2  
-#3 Code3.3
-#4 Code3.4
-#5 Code3.5
-#6 ex27
-#7 ex29
-#8 ex33
+#3 Code3.3  
+#4 Code3.4  
+#5 Code3.5  
+#6 ex27  
+#7 ex29  
+#8 ex33  
 
 ### Chapter4 Function, scope, abstraction
 
