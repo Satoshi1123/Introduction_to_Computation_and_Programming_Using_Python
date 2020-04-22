@@ -3,10 +3,10 @@
 Python言語によるプログラミングイントロダクション 第2版-データサイエンスとアプリケーション
 
 ### Chapter2 Python overview
-#1 Find_the_square_of_an_integer_steadily
-#2 Find_a_positive_integer_divisible_by_both_11_and_12
-#3 ex23
-#4 ex24
+#1 Find_the_square_of_an_integer_steadily  
+#2 Find_a_positive_integer_divisible_by_both_11_and_12  
+#3 ex23  
+#4 ex24  
 
 
 ### Chapter3 Simple arithmetic program
@@ -20,14 +20,14 @@ Python言語によるプログラミングイントロダクション 第2版-�
 #8 ex33  
 
 ### Chapter4 Function, scope, abstraction
-#1 Code4.1
-#2 Code4.2
-#3
-#4
-#5
-#6
-#7
-#8
+#1 Code4.1  
+#2 Code4.2  
+#3  
+#4  
+#5  
+#6  
+#7  
+#8  
 
 ### Chapter5 Structural type, variability and higher-order functions
 
